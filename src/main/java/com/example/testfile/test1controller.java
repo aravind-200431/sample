@@ -10,7 +10,7 @@ public class test1controller
     public String testMethod()
 
     {
-        return "Nothing ever goes as planned in this accursed world. The longer you live, the more you realize that the only things that truly exist in this reality are pain, suffering, and futility. Enjoying something or someone is an illusion that only leads to heartbreak. In the end, we all return to the same nothingness from which we came.";
+        return ". The longer you live, the more you realize that the only things that truly exist in this reality are pain, suffering, and futility. Enjoying something or someone is an illusion that only leads to heartbreak. In the end, we all return to the same nothingness from which we came.";
     }
 
     }
