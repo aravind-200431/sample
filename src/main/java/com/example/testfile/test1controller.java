@@ -12,5 +12,5 @@ public class test1controller
     {
         return "Life is Beautiful";
     }
-
+  int i=;
     }
