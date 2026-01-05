@@ -10,7 +10,7 @@ public class test1controller
     public String testMethod()
 
     {
-        return "Running up to Hill ";
+        return "Running up to Hill";
     }
   
     }
