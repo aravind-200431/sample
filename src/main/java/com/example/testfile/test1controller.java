@@ -10,7 +10,7 @@ public class test1controller
     public String testMethod()
 
     {
-        return "Kohli";
+        return "Mumbai Indians";
     }
   
     }
