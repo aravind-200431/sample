@@ -10,7 +10,7 @@ public class test1controller
     public String testMethod()
 
     {
-        return "Everything will be alright but It will take  some time";
+        return "Everything will be alright but It will take few time";
     }
   
     }
