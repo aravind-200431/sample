@@ -10,7 +10,7 @@ public class test1controller
     public String testMethod()
 
     {
-        return " Trust Everything will be alright ";
+        return " Trust me Everything will be alright ";
     }
   
     }
