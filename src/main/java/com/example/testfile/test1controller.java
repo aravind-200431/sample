@@ -10,7 +10,7 @@ public class test1controller
     public String testMethod()
 
     {
-        return "Do it  for Yourself";
+        return "Do it for Yourself";
     }
   
     }
