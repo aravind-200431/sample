@@ -9,8 +9,8 @@ public class test1controller
     @GetMapping("/test1")
     public String testMethod()
 
-    {
-        return "Do it for Yourself";
+    
+        return "Just Do it";
     }
   
     }
